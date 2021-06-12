@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 group-title="Livesports24",Матч!
+https://185-82-203-145.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Премьер
+https://185-82-203-145.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Футбол 1
+https://185-82-203-145.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Футбол 2
+https://185-82-203-145.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Футбол 3
+https://185-82-203-145.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Арена
+https://185-82-203-145.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Боец
+https://185-82-203-145.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Планета
+https://185-82-203-145.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 group-title="Livesports24",Матч! Страна
+https://185-82-203-145.livesports24.online/mnashsport.m3u8
+#EXTINF:-1 group-title="Livesports24",Футбол
+https://185-82-203-145.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="Livesports24",КХЛ HD
+https://185-82-203-145.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 group-title="Livesports24",Eurosport 1
+https://185-82-203-145.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1 group-title="Livesports24",Eurosport 2
+https://185-82-203-145.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1 group-title="Livesports24",Беларусь 5
+https://185-82-203-145.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="Livesports24",Setanta Sports 1
+https://185-82-203-145.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="Livesports24",Setanta Украина
+https://185-82-203-145.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="Livesports24",Sport 1 Украина
+https://185-82-203-145.livesports24.online/sport1ua.m3u8
+#EXTINF:-1 group-title="Livesports24",Футбол 1 Украина
+https://185-82-203-145.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="Livesports24",Футбол 2 Украина
+https://185-82-203-145.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Livesports24",Футбол 3 Украина
+https://185-82-203-145.livesports24.online/football3ua.m3u8
